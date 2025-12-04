@@ -28,5 +28,6 @@ Displays current balance using formatted output.
 
 ### Javadocs Link
 
-[Click the link](file:///C:/Users/hafsa/OneDrive/UMBC/Fall%202025/IS%20147/final%20project/package-summary.html)
+Copy and paste the link into your browser:
+file:///C:/Users/hafsa/OneDrive/UMBC/Fall%202025/IS%20147/final%20project/package-summary.html
 
