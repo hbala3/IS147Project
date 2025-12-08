@@ -31,6 +31,10 @@ Displays current balance using formatted output.
 Click the link:
 [https://hbala3.github.io/IS147Project/package-summary.html]
 
+### UML Diagram
+![UML Diagram](assets/uml-diagram.png)
+
+
 ### Information
 
 #### Use of Docker
