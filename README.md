@@ -29,7 +29,7 @@ Displays current balance using formatted output.
 ### Javadocs Link
 
 Copy and paste the link into your browser:
-file:///C:/Users/hafsa/OneDrive/UMBC/Fall%202025/IS%20147/final%20project/package-summary.html
+[https://hbala3.github.io/IS147Project/package-summary.html]
 
 ### Information
 
