@@ -28,7 +28,7 @@ Displays current balance using formatted output.
 
 ### Javadocs Link
 
-Copy and paste the link into your browser:
+Click the link:
 [https://hbala3.github.io/IS147Project/package-summary.html]
 
 ### Information
